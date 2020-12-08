@@ -1,1 +1,3 @@
 # BarCodeScanner
+link for the output video
+https://photos.google.com/share/AF1QipMeXEIYDgMwXrb4Z6gHl5KzbjN_HqJq35vRZtxHbLvAFR85NQkxLgebVJ1-I_Cvog?key=WUFXZXp4VGpQdjNENEVLM3JuY2hRN2haa29GcGhn
